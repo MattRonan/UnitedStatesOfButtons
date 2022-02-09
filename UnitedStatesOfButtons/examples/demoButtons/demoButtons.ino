@@ -9,7 +9,7 @@
  *  1 = pressed  (one-shot)
  *  2 = held (constant)
  *  3 = reach long hold threshold (one-shot)
- *  4 = held (constant)
+ *  4 = held long (constant)
  *  5 = released after short press (one-shot)
  *  6 = released after long press (one-shot)
  * 
@@ -17,7 +17,7 @@
  *  0 = idle (constant)
  *  1 = pressed  (one-shot)
  *  2 = held (constant)
- *  3 = held (constant)
+ *  3 = held long (constant)
  *  4 = released after short press (one-shot)
  *  5 = released after long press (one-shot)
  *  
