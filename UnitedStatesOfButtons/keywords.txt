@@ -1,0 +1,3 @@
+SevenStateButton	KEYWORD1
+SixStateButton		KEYWORD1
+FourStateButton		KEYWORD1
