@@ -1,2 +1,2 @@
 # UnitedStatesOfButtons
-Easily deal with a variety of multi state buttons in Arduino 
+Easily deal with a variety of multi-state buttons in Arduino 
