@@ -1,5 +1,5 @@
 /* United States of Buttons
- * Matt Ronan 2018 
+ * 2022 Matt Ronan (MIT License)
  */
 
 #ifndef UnitedStatesOfButtons_h
