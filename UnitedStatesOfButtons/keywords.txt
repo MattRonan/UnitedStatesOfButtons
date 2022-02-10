@@ -1,3 +1,8 @@
 SevenStateButton	KEYWORD1
 SixStateButton		KEYWORD1
 FourStateButton		KEYWORD1
+ThreeStateButton	KEYWORD1
+TwoStateButton		KEYWORD1
+state							KEYWORD1
+doubleClick				KEYWORD1
+UnitedStatesOfButtons	KEYWORD1
