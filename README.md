@@ -1,6 +1,6 @@
 # UnitedStatesOfButtons
 
-A variety of multi-state buttons in C++/Arduino.  Also tracks double-clicks.
+A simple library to deal with multi-state buttons in C++/Arduino.  Also tracks double-clicks.
 
 ![helpGif](https://user-images.githubusercontent.com/11184076/153303388-15d9661e-30c5-473a-9218-d7ee5116a0c6.gif)
 
